@@ -8,7 +8,7 @@ const Footer = () => {
         <div className=" w-full md:w-1/4">
           <h1 className=" font-semibold text-xl pb-4">PizzaNights</h1>
           <p className=" text-sm">
-          We are currently available on PickmeFoods and UberEats.
+          We are currently available on Pickme Foods and UberEats.
           </p>
         </div>
         <div>
